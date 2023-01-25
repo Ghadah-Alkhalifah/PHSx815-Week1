@@ -1,5 +1,5 @@
-# Project1
-## This is Ghadah and I am learning the markdown syntax.
+# Random Number Generator
+## file .
 -----------
 #### *I will use python for coding.*
 
